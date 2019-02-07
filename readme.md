@@ -17,7 +17,7 @@
 ---
 
 ### Folder Structure:
-`
+```
 ├── assets
 │   ├── scene_assets
 │   │   ├── audio
@@ -34,4 +34,4 @@
         ├── aframe-stereo.js
         ├── aframe.js
         └── jquery.js
-`
+```
